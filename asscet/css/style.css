@@ -1,0 +1,78 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+body{
+	line-height:1.5;
+}
+.heroimgsection{
+	padding:60px 0 105px;
+	background-color:#fcdb00;
+}
+.navbar li {
+	display:inline-block;
+	margin-left:36px;
+}
+.navbar li:first-child{
+	margin:left:0px;
+}
+.navbar li a {
+	padding:18px 18px;
+	font-size:21px;
+	font-weight:bold;
+	color:#010101;
+	text-transform:capitalize;
+}
+.navbar ul{
+	display:inline-block;
+}
+.brandlist li{
+	display:inline-block;
+	margin:36px;
+
+}
+.brandlist li i{
+	font-size:40px;
+	color:black;
+}
+.inspration{
+	margin-top:70px;
+}
+.ipad{
+	margin-left:50px;
+	
+}
+.featuresection{
+	padding:120px 0 70px;
+}
+
+/*----------footer section--------*/
+
+
+.footersection{
+	background-color:#010101;
+	padding:90px 0 130px;
+}
+.footersection .pri-heading{
+	color:#fcdb00;
+}
+.footersection .sec-heading{
+	color:#898989;
+	padding-bottom:46px;
+}
+.footersection .shortinfo{
+	color:#898989;
+	margin-left:114px;
+}
+.footersection .icons{
+	font-size:40px;
+	color:yellow;
+	text-align:center;
+	margin:69px 0px 130px;
+}
+.footersection .icons i {
+	padding:15px;
+}
+.
